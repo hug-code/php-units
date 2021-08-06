@@ -1,0 +1,24 @@
+{
+    "name": "hug-code/php-units",
+    "description": "累积工作中一些常用的php方法，日常加油站",
+    "type": "library",
+    "homepage": "http://www.hug-code.cn/",
+    "minimum-stability":"dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "无痕",
+            "email": "1762910894@qq.com",
+            "homepage": "http://www.hug-code.cn/"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HugCode\\PhpUnits\\": ""
+        }
+    }
+}
