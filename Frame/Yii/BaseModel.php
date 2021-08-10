@@ -1,5 +1,5 @@
 <?php
-namespace HugCode\PhpUnits\Yii;
+namespace HugCode\PhpUnits\Frame\Yii;
 
 use yii\db\ActiveQuery;
 use yii\helpers\Inflector;
